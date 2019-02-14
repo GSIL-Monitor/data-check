@@ -1,0 +1,11 @@
+{
+  "Interface_Report1.py::Interface_Report1::test_AgReport": true,
+  "Interface_Report1.py::Interface_Report1::test_QueReport": true,
+  "Interface_Report1.py::Interface_Report1::test_Report": true,
+  "Interface_Report1.py::test_token": true,
+  "Interface_report1.py::Interface_Report::test_Agreport1_1_2018_09_13": true,
+  "Interface_report1.py::Interface_Report::test_Agreport1_2__": true,
+  "Interface_report1.py::Interface_Report::test_Agreport1_3_2001": true,
+  "Interface_report1.py::Interface_Report::test_Agreport1_4_4": true,
+  "Interface_report1.py::Interface_Report::test_Agreport1_5_TotalCallNum_Transfer_IB": true
+}
